@@ -1,0 +1,7 @@
+[package]
+name = "rfm"
+version = "0.1.0"
+edition = "2024"
+description = "Rabbit Flavored Markdown (RFM) parser and HTML renderer"
+
+[dependencies]
